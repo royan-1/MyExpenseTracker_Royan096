@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\build\\intermediates\\merged_res\\debug\\layout_item_transaction.xml.flat",
+        "source": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\src\\main\\res\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\royan\\Downloads\\MyExpenseTracker_Royan096\\MyExpenseTracker_Royan096\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    }
+]
